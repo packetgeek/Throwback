@@ -1,3 +1,5 @@
+I've forked this project to experiment with the code (and probably do horrible things to it).  Recommend using the original code.
+
 Throwback
 =========
 
